@@ -1,0 +1,10 @@
+(fp_lib_table
+  (lib (name "USB_C_4_pin")(type "KiCad")(uri "${KIPRJMOD}/USB_C_4_pin.pretty")(options "")(descr ""))
+  (lib (name "Trimmer_resistor")(type "KiCad")(uri "${KIPRJMOD}/Trimmer_resistor.pretty")(options "")(descr ""))
+  (lib (name "MK1000")(type "KiCad")(uri "${KIPRJMOD}/MK1000.pretty")(options "")(descr ""))
+  (lib (name "Fuse_holder")(type "KiCad")(uri "${KIPRJMOD}/Fuse_holder.pretty")(options "")(descr ""))
+  (lib (name "LM2940")(type "KiCad")(uri "${KIPRJMOD}/LM2940.pretty")(options "")(descr ""))
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "${KIPRJMOD}/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
+  (lib (name "Castellated_holes")(type "KiCad")(uri "${KIPRJMOD}/Castellated_holes.pretty")(options "")(descr ""))
+  (lib (name "logo")(type "KiCad")(uri "C:/Users/d/Desktop/Projects/svg logo/logo.pretty")(options "")(descr ""))
+)
